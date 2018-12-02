@@ -1,0 +1,23 @@
+state,group,county,city,registered,democrat,republican,other,source,voted_for_hillary,voted_for_trump,total_votes,party_won
+CA,"San Francisco-Oakland-San Jose, CA",San Francisco,San Francisco,"512,723","296,772","38,279","177,672",https://elections.cdn.sos.ca.gov/sov/2016-general/sov/02-voter-reg-stats-by-county.pdf,"345,084","37,688","405,792",D
+CA,"San Francisco-Oakland-San Jose, CA",Almaeda,Oakland,"888,664","510,429","107,482","270,753",https://elections.cdn.sos.ca.gov/sov/2016-general/sov/02-voter-reg-stats-by-county.pdf,"514,842","95,922","654,266",D
+CA,"San Francisco-Oakland-San Jose, CA",Santa Clara,San Jose,"875,176","411,479","171,281","292,416",https://elections.cdn.sos.ca.gov/sov/2016-general/sov/02-voter-reg-stats-by-county.pdf,"511,684","144,826","703,709",D
+MA,"Boston, MA/Manchester, NH",Suffolk county,Boston,"471,829","235,436","28,033","208,360",https://www.sec.state.ma.us/ele/eleregistrationstats/registrationstats.htm,"245,751",50421,317207,D
+NV,"Las Vegas, NV",Clark county,Las Vegas,"1,185,893","512,041","338,372","335,480",https://www.nvsos.gov/sos/elections/voters/voter-registration-statistics/2016-statistics,"402,227","320,057",767156,D
+FL,"Tampa-St. Petersburg, FL",Hillsborough County,Tampa,854189,"337,632","268,591","247,966",https://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-registration-monthly-reports/,307896,"266,870",597660,D
+FL,"Tampa-St. Petersburg, FL",Pinellas County,St.Petersburg,653655,"233,999","232,349","187,307",https://dos.myflorida.com/elections/data-statistics/voter-registration-statistics/voter-registration-monthly-reports/,233701,"239,201",492403,R
+Ohio,"Cleveland, Ohio",Cuyahoga county,Cleveland,"891,568","225,482","149,871","516,215",https://boe.cuyahogacounty.us/pdf_boe/en-US/votercontrol/2016/Voter%20Control%20for%20Nov2016_194.pdf,"383,974","179,894","584,410",D
+Iowa,"Des Moines-Ames, Iowa",Des Moines,Des Moines,"28,517",12486,7122,"8,909",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,8212,"9,529",19103,R
+Iowa,"Des Moines-Ames, Iowa",Story county,Ames,"69,043",22288,20086,"26,669",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,25709,"19,458",50667,D
+NC,"Raleigh-Durham-Fayetteville,  NC",Wake county,Raleigh,"705,093","266,039",188949,"250,105",https://vt.ncsbe.gov/RegStat/Results/?date=11%2F08%2F2016,"302,569",195984,527337,D
+NC,"Raleigh-Durham-Fayetteville,  NC",Durham,Durham,"232,428","129,682",29895,"72,851",https://vt.ncsbe.gov/RegStat/Results/?date=11%2F08%2F2016,"121,166",28314,156006,D
+NC,"Raleigh-Durham-Fayetteville,  NC",Cumberland county,Fayetteville,"212,015","99,264","48,845","63,906",https://vt.ncsbe.gov/RegStat/Results/?date=11%2F08%2F2016,"71,605",51265,127506,D
+WI,"Milwaukee, WI",Milwaukee,Milwaukee,566816,,,566816,,"288,822",126069,"441,053",D
+Iowa,"Ceder Rapids-Waterloo-Iowa City-Dublin, Iowa",Linn County,Ceder Rapids,"154,406",55858,41531,"57,017",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,58935,"48,390",117098,D
+Iowa,"Ceder Rapids-Waterloo-Iowa City-Dublin, Iowa",Black Hawk county,Waterloo,"89,254",32745,23130,"33,379",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,32233,"27,476",64405,D
+Iowa,"Ceder Rapids-Waterloo-Iowa City-Dublin, Iowa",Johnson county,Iowa City,"111,253",51105,22799,"37,349",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,50200,"21,044",76940,D
+Iowa,"Ceder Rapids-Waterloo-Iowa City-Dublin, Iowa",Washington county,Dublin,"15,160",3203,6442,"5,515",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,"3,943","6,173","10,929",R
+PA,"Philadelphia, PA",Philadelphia,Philadelphia,"1,102,560","853,091","125,557","123,912",https://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Documents/2016%20Election%20VR%20Stats.pdf,"584,025","108,748","707,631",D
+NH,"Boston, MA/Manchester, NH",Hillsborough County,Manchester,278772,"77,378","85,826","115,568",http://sos.nh.gov/NamesHistory.aspx,"99,589",100013,210746,R
+SC,"Columbia, SC",Richland County,Colombia,254913,,,254913,https://web.archive.org/web/20160314175745/http://scvotes.org/data/vrcurr.html,"108,000","52,469","168,722",D
+Iowa,"Sioux City, Iowa",Woodbury County,Sioux City,"62,991",19907,21830,"21,254",https://sos.iowa.gov/elections/pdf/VRStatsArchive/2016/CoNov16.pdf,"16,210","24,727","43,718",R
